@@ -1,0 +1,13 @@
+name: PROJECT
+title: PROJECT
+username: komstat8-2ks2
+account: komstat8-2ks2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15038575
+bundleId: 10573168
+url: https://komstat8-2ks2.shinyapps.io/PROJECT/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Data Source Dashboard.xlsx
